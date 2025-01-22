@@ -5,6 +5,8 @@ This is a two-player text-based Fishing Tournament game program built using obje
 - The players will catch fish and put them into a "sack" (an ArrayList, sorted in descending order by length)
 - After 12 turns each, the player with the three largest fish wins.
 
+Gameplay: 
+
 Player 1, it is your turn! 
 * Choose:
   1. Cast out for a fish
@@ -25,6 +27,8 @@ Player 1, it is your turn!
      Sex: supermale
      
  * Do you want to keep this fish y/n? y
-     - Possibly it would be nice to be able to view the fishing rules here, after the player knows what the fish is.
+   
   You have kept your fish
   Your fish is legal and has been added to your sack
+
+Throughout this project, I worked with two classmates in ICS 211, where we learned how to code in Java using JGrasp as the IDE. 
