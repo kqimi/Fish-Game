@@ -31,4 +31,4 @@ Player 1, it is your turn!
   You have kept your fish
   Your fish is legal and has been added to your sack
 
-Throughout this project, I worked with two classmates in ICS 211, where we learned how to code in Java using JGrasp as the IDE. 
+Throughout this group project, I got the pleasure of working with two of my classmates in ICS 211, where we learned how to code in Java using JGrasp as the IDE. To test this code, you can download it to your desktop and run it with an IDE that supports Java. 
